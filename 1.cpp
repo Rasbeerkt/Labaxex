@@ -20,7 +20,11 @@ int main() {
 		num++;
 	} while (num <= b);
 }
-
+int main() {
+	int num;
+	scanf_s("%d", &num);
+	if (num%2==0) printf("Chet")
+}
 
 //#include <stdio.h>
 //	int isPrime(int chis) {
