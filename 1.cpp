@@ -25,7 +25,9 @@ int main() {
 	scanf_s("%d", &num);
 	if (num%2==0) printf("Chet")
 }
-
+int main() {
+	printf("Hello")
+}
 //#include <stdio.h>
 //	int isPrime(int chis) {
 //		int sum = 0;
